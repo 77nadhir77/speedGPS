@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\DELL\OpenCV-android-sdk\sdk\.cxx\Debug\p284l276\armeabi-v7a'
+ninja: no work to do.
